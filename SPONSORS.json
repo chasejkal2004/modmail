@@ -43,4 +43,21 @@
             ]
         }
     }
+    {
+        "embed": {
+            "title": "Kingdom Gaming",
+            "description": "Kingdom Gaming is a Gaming/Community discord server. We have our own minecraft server thank supports bedrock and java. Come check us out",
+            "color": 2967364,
+            "thumbnail": {
+                "url": "https://imgur.com/gallery/yC2Wl6H"
+            },
+            "fields": [
+                {
+                    "name": "Discord Server!",
+                    "value": "[**Click here**](https://discord.gg/kingdomgaming)"
+                }
+            ]
+        }
+    }
+
 ]
